@@ -18,6 +18,6 @@ Feature:  As a customer
     Then I am taken to "<boohoo>" homepage
 
     Examples:
-      |Tittle| FirstName|LastName|DateOfBirth|Gender|EmailAddress         |Password|
+      |Tittle| FirstName|LastName|DateOfBirth|Gender|EmailAddress        |Password|
       |Mr    |Joss      |Ola     |13/04/1980 |M     |Auuto@mailinator.com| Boohoo123|
       |Mr    |Joss     |  Ola    |           |M     |Auuto@mailinator.com |Boohoo123|
